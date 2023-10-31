@@ -47,6 +47,7 @@
 
 **[ ИНСТРУМЕНТЫ РАЗРАБОТКИ, ИНФОРМАЦИЯ О БД ]**
 
+*	Тип базы данных - SQL
 *	«RPG Maker MV» на JavaScript
 *	«Music Forge»
 *	«Pixel Studio»	
