@@ -1,2 +1,3 @@
 
-[ОТЧЁТ_IT_Logvinov.pdf.docx](https://github.com/Tastyartorias/Cyber-Rush/files/13285286/_IT_Logvinov.pdf.docx)
+[ОТЧЁТ_IT_Logvinov.pdf.pdf](https://github.com/Tastyartorias/Cyber-Rush/files/13286018/_IT_Logvinov.pdf.pdf)
+
