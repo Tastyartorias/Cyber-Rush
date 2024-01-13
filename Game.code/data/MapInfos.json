@@ -1,0 +1,20 @@
+[
+null,
+{"id":1,"expanded":true,"name":"Operation room","order":1,"parentId":0,"scrollX":648.8,"scrollY":546},
+{"id":2,"expanded":true,"name":"Main Corridor","order":2,"parentId":1,"scrollX":648.8,"scrollY":523.6},
+{"id":3,"expanded":false,"name":"Mind","order":11,"parentId":1,"scrollX":655.2,"scrollY":356.4},
+{"id":4,"expanded":true,"name":"Armory entrance","order":12,"parentId":0,"scrollX":655.2,"scrollY":356.4},
+{"id":5,"expanded":true,"name":"Basement","order":3,"parentId":2,"scrollX":648.8,"scrollY":900.4},
+{"id":6,"expanded":false,"name":"Basement 2","order":4,"parentId":5,"scrollX":655.2,"scrollY":356.4},
+{"id":7,"expanded":false,"name":"Armory","order":5,"parentId":5,"scrollX":655.2,"scrollY":356.4},
+{"id":8,"expanded":false,"name":"Server room","order":6,"parentId":2,"scrollX":655.2,"scrollY":356.4},
+{"id":9,"expanded":true,"name":"Chemical room","order":7,"parentId":2,"scrollX":655.2,"scrollY":356.4},
+{"id":10,"expanded":false,"name":"Chemical room 2","order":10,"parentId":17,"scrollX":655.2,"scrollY":356.4},
+{"id":11,"expanded":false,"name":"Rusty sector","order":8,"parentId":2,"scrollX":648.8,"scrollY":411.6},
+{"id":12,"expanded":true,"name":"FLESH","order":13,"parentId":4,"scrollX":648.8,"scrollY":610},
+{"id":13,"expanded":false,"name":"NUMBERS","order":14,"parentId":12,"scrollX":791.2,"scrollY":438.8},
+{"id":14,"expanded":true,"name":"RUST","order":15,"parentId":12,"scrollX":791.2,"scrollY":350},
+{"id":15,"expanded":true,"name":"Emergency room","order":16,"parentId":14,"scrollX":648.8,"scrollY":356.4},
+{"id":16,"expanded":false,"name":"END","order":17,"parentId":15,"scrollX":655.2,"scrollY":356.4},
+{"id":17,"expanded":true,"name":"Main entrance","order":9,"parentId":2,"scrollX":655.2,"scrollY":356.4}
+]

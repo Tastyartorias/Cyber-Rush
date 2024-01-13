@@ -1,0 +1,6 @@
+[
+null,
+{"id":1,"battlerName":"хенрик бой","characterIndex":0,"characterName":"хенрик персонаж","classId":2,"equips":[0,1,0,2,0,1,0,0],"faceIndex":0,"faceName":"henrik face 3","traits":[],"initialLevel":1,"maxLevel":99,"name":"Хенрик","nickname":"","note":"","profile":""},
+{"id":2,"battlerName":"хенрик бой","characterIndex":0,"characterName":"хенрик персонаж","classId":1,"equips":[0,1,2,2,0,1],"faceIndex":0,"faceName":"henrik face 3","traits":[],"initialLevel":1,"maxLevel":99,"name":"Хенрик","nickname":"","note":"","profile":""},
+{"id":3,"battlerName":"хенрик бой","characterIndex":0,"characterName":"хенрик персонаж","classId":3,"equips":[0,1,2,2,0,1],"faceIndex":0,"faceName":"henrik face 3","traits":[],"initialLevel":1,"maxLevel":99,"name":"Хенрик","nickname":"","note":"","profile":""}
+]
